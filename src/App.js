@@ -1,7 +1,5 @@
 import React from 'react';
 import './index.scss';
-import { useState } from 'react';
-import { useEffect } from 'react';
 import { Collection } from './Collection';
 
 const cats = [{ "name": "Все" },
